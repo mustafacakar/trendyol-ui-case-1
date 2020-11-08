@@ -1,0 +1,1128 @@
+1604761671445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile6GX8P2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604761674768	Marionette	INFO	Listening on port 51672
+1604761675087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780424736	Marionette	INFO	Stopped listening on port 51672
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileiaiG6Z"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604761723092	Marionette	INFO	Listening on port 51787
+1604761723314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://www.gstatic.com/mysidia/7c516c76f1fb366b17a3e9571831221c.js?tag=video_mra/web_fig_och, line 164: SecurityError: The operation is insecure.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780427068	Marionette	INFO	Stopped listening on port 51787
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilenrOEYL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604761901774	Marionette	INFO	Listening on port 52139
+1604761901877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604761914597	Marionette	INFO	Stopped listening on port 52139
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604762643391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileFaZbJ3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604762646820	Marionette	INFO	Listening on port 52768
+1604762647022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[Parent 27644, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604780425076	Marionette	INFO	Stopped listening on port 52768
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604762738460	Marionette	INFO	Listening on port 52930
+1604762738509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780425711	Marionette	INFO	Stopped listening on port 52930
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileqZCDGu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604763543356	Marionette	INFO	Listening on port 53497
+1604763543393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+console.error: "Error writing request: getGrids"
+1604763656311	Marionette	INFO	Stopped listening on port 53497
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604764867430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile3w1c7k"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604764870297	Marionette	INFO	Listening on port 54219
+1604764870572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780425086	Marionette	INFO	Stopped listening on port 54219
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofiledI5CbC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604764976364	Marionette	INFO	Listening on port 54442
+1604764976664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780424164	Marionette	INFO	Stopped listening on port 54442
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilelZ3n2u"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604765809486	Marionette	INFO	Listening on port 55371
+1604765809690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604765820763	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.trendyol.com/giris?cb=https%3A%2F%2Fwww.trendyol.com%2F, line 368: TypeError: window.Authentication is undefined
+1604765822802	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604765831047	Marionette	INFO	Stopped listening on port 55371
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604765839190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileJanGSp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604765842126	Marionette	INFO	Listening on port 55510
+1604765842327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780424966	Marionette	INFO	Stopped listening on port 55510
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile552Gk8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604765898955	Marionette	INFO	Listening on port 58571
+1604765899334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780423766	Marionette	INFO	Stopped listening on port 58571
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileGRgaxB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604765962291	Marionette	INFO	Listening on port 58734
+1604765962676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780423556	Marionette	INFO	Stopped listening on port 58734
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604766045701	Marionette	INFO	Listening on port 58902
+1604766046046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604766058982	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[Child 32356, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 32356, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1604780425541	Marionette	INFO	Stopped listening on port 58902
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"", "(unknown module)"))
+1604766154604	Marionette	INFO	Listening on port 59087
+1604766154890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780424688	Marionette	INFO	Stopped listening on port 59087
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofiley5tg9H"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604766334852	Marionette	INFO	Listening on port 59312
+1604766335138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780425442	Marionette	INFO	Stopped listening on port 59312
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileB1xpyv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604767107603	Marionette	INFO	Listening on port 59838
+1604767108048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.trendyol.com/ line 6196 > injectedScript, line 1: ReferenceError: _kiq is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://www.trendyol.com/butik/liste/kadin line 6196 > injectedScript, line 1: ReferenceError: _kiq is not defined
+1604780424734	Marionette	INFO	Stopped listening on port 59838
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilecqHAo4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604767229076	Marionette	INFO	Listening on port 60016
+1604767229545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604767243236	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604780425929	Marionette	INFO	Stopped listening on port 60016
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile2TbyUa"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604767423349	Marionette	INFO	Listening on port 60240
+1604767423471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780424477	Marionette	INFO	Stopped listening on port 60240
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile53iRQC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604767604970	Marionette	INFO	Listening on port 60468
+1604767605682	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24764, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780426095	Marionette	INFO	Stopped listening on port 60468
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileepirD4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604767969778	Marionette	INFO	Listening on port 60788
+1604767970156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604767975357	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604769157137	Marionette	INFO	Stopped listening on port 60788
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileGrKKEj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604768034965	Marionette	INFO	Listening on port 60955
+1604768035213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604769155807	Marionette	INFO	Stopped listening on port 60955
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilebOs2XY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604768182918	Marionette	INFO	Listening on port 61135
+1604768183204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604768195561	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604768198359	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604769153555	Marionette	INFO	Stopped listening on port 61135
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile9NhY60"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604768249002	Marionette	INFO	Listening on port 61279
+1604768249439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604768823377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileTCBtTm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604768828497	Marionette	INFO	Listening on port 61721
+1604768828666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604769151905	Marionette	INFO	Stopped listening on port 61721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604769218782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilebkqubP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604769223099	Marionette	INFO	Listening on port 62068
+1604769223539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604769318197	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://www.akakce.com/islemci/en-ucuz-amd-ryzen-3-3100-dort-cekirdek-3-60-ghz-fiyati,710752249.html, line 111: ReferenceError: fbq is not defined
+JavaScript warning: https://akakce.akamaized.net/scripts/mobilep.js?202011074, line 1: unreachable code after return statement
+JavaScript warning: https://akakce.akamaized.net/scripts/mobilep.js?202011074, line 1: unreachable code after return statement
+1604769338553	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1894: TypeError: currentPanel is undefined
+1604772786130	Marionette	INFO	Stopped listening on port 62068
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileWbalOL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604772637458	Marionette	INFO	Listening on port 64006
+1604772637708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604772785028	Marionette	INFO	Stopped listening on port 64006
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+(new Error("", "(unknown module)"))
+1604772719073	Marionette	INFO	Listening on port 64174
+1604772719365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604772784941	Marionette	INFO	Stopped listening on port 64174
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+(new Error("", "(unknown module)"))
+1604772767761	Marionette	INFO	Listening on port 64299
+1604772768245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604772780040	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Marionette threw an error: TypeError: this.curBrowser.messageManager is null
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:361:5
+send/<@chrome://marionette/content/proxy.js:190:12
+send@chrome://marionette/content/proxy.js:124:12
+get/<@chrome://marionette/content/proxy.js:37:29
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:2054:28
+
+1604772784257	Marionette	INFO	Stopped listening on port 64299
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604772793809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileGz1VYA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604772798925	Marionette	INFO	Listening on port 64441
+1604772799091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604772812849	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+1604772816711	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780423969	Marionette	INFO	Stopped listening on port 64441
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604780498842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileeG2a5j"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604780502069	Marionette	INFO	Listening on port 52138
+1604780502511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604780522339	Marionette	INFO	Stopped listening on port 52138
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604780528146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileZs3ZTV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604780531098	Marionette	INFO	Listening on port 52261
+1604780531297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: chrome://marionette/content/proxy.js, line 283: NS_ERROR_NOT_INITIALIZED
+1604780543121	Marionette	INFO	Stopped listening on port 52261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604780563990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilestOedh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604780566843	Marionette	INFO	Listening on port 52384
+1604780567127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: chrome://marionette/content/proxy.js, line 283: NS_ERROR_NOT_INITIALIZED
+1604780579733	Marionette	INFO	Stopped listening on port 52384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604780585431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileeKuJVK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604780588141	Marionette	INFO	Listening on port 52498
+1604780588560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604795463030	Marionette	INFO	Stopped listening on port 52498
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileZILZiG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604782719644	Marionette	INFO	Listening on port 53851
+1604782720125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 885))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:885:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1627:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1441:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1512:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1627:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+1604782838331	Marionette	INFO	Stopped listening on port 53851
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604782852460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileGZbPZ3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604782855483	Marionette	INFO	Listening on port 54041
+1604782855593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604792781526	Marionette	INFO	Stopped listening on port 54041
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileSOWZNI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604783119696	Marionette	INFO	Listening on port 54275
+1604783119773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://www.trendyol.com/butik/liste/kadin, line 23: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.trendyol.com/butik/liste/kadin, line 23: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.trendyol.com/butik/liste/kadin, line 23: NS_ERROR_NOT_INITMarionette threw an error: TypeError: this.curBrowser.messageManager is null
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:361:5
+send/<@chrome://marionette/content/proxy.js:190:12
+send@chrome://marionette/content/proxy.js:124:12
+get/<@chrome://marionette/content/proxy.js:37:29
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:2054:28
+
+IALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1604783130889	Marionette	INFO	Stopped listening on port 54275
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604783152720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofiletTLOy1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604783155654	Marionette	INFO	Listening on port 54390
+1604783155862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604783193671	Marionette	INFO	Stopped listening on port 54390
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604797706176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileMYMhqm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604797709329	Marionette	INFO	Listening on port 63768
+1604797709817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js?445777, line 1: Error: CE: multiple userscripts installed
+JavaScript error: https://js.zohocdn.com/salesiq/https/js/siqnewchatwindow_6baff9b94d3fac454527bc8da5382646_.js, line 1: TypeError: $Support.theme is undefined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604798351404	Marionette	INFO	Stopped listening on port 63768
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604798156868	Marionette	INFO	Listening on port 64006
+1604798157156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604798347324	Marionette	INFO	Stopped listening on port 64006
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604798491564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileTfBN8B"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604798493942	Marionette	INFO	Listening on port 64293
+1604798494187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604799264131	Marionette	INFO	Stopped listening on port 64293
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604798739113	Marionette	INFO	Listening on port 64635
+1604798739223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604799262649	Marionette	INFO	Stopped listening on port 64635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604799319924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofiler0ibtk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604799322513	Marionette	INFO	Listening on port 65357
+1604799322556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604799325602	Marionette	INFO	Stopped listening on port 65357
+JavaScript error: https://www.trendyol.com/, line 23: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.trendyol.com/, line 23: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604799413253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile0nxTDJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604799415904	Marionette	INFO	Listening on port 65459
+1604799416385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604799476630	Marionette	INFO	Stopped listening on port 65459
+JavaScript error: https://www.trendyol.com/duke-nickle/erkek-kol-saati-veh28019a-p-32183801?boutiqueId=539950&merchantId=106615, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604800702853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileHMZvEM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604800705307	Marionette	INFO	Listening on port 49892
+1604800705477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604800767036	Marionette	INFO	Stopped listening on port 49892
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.trendyol.com/duke-nickle/erkek-kol-saati-veh28019a-p-32183801?boutiqueId=539950&merchantId=106615, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.trendyol.com/duke-nickle/erkek-kol-saati-veh28019a-p-32183801?boutiqueId=539950&merchantId=106615, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604800776236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile4Mh10o"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604800778679	Marionette	INFO	Listening on port 50036
+1604800778863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604800845145	Marionette	INFO	Stopped listening on port 50036
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3800BD,name=PContent::Msg_StartVisitedQueries) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604800991276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofiled0zN8f"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604800993857	Marionette	INFO	Listening on port 50237
+1604800993914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604801008649	Marionette	INFO	Stopped listening on port 50237
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604801056297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile40JZOB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604801058833	Marionette	INFO	Listening on port 50368
+1604801058926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604801114820	Marionette	INFO	Stopped listening on port 50368
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604801119992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileKNUvvI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604801122411	Marionette	INFO	Listening on port 50504
+1604801122621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604801138990	Marionette	INFO	Stopped listening on port 50504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604801245363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile73e4po"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604801247730	Marionette	INFO	Listening on port 50659
+1604801247992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604801307755	Marionette	INFO	Stopped listening on port 50659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604801647445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileAtyScb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604801649814	Marionette	INFO	Listening on port 50963
+1604801650075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604801686751	Marionette	INFO	Stopped listening on port 50963
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604801804905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileuwr56n"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604801807397	Marionette	INFO	Listening on port 51098
+1604801807545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604801867998	Marionette	INFO	Stopped listening on port 51098
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604802453069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileZoeh5O"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604802455657	Marionette	INFO	Listening on port 51523
+1604802455705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604802485423	Marionette	INFO	Stopped listening on port 51523
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604802490970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilenijYAE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604802493303	Marionette	INFO	Listening on port 51640
+1604802493601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604802553657	Marionette	INFO	Stopped listening on port 51640
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604802579632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilec0Tfu9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604802582051	Marionette	INFO	Listening on port 51779
+1604802582258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604802602384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileKgB4Fc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604802604874	Marionette	INFO	Listening on port 51890
+1604802605007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604802620453	Marionette	INFO	Stopped listening on port 51890
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604802647576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilebaYwa7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604802649854	Marionette	INFO	Listening on port 52011
+1604802650221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604802710881	Marionette	INFO	Stopped listening on port 52011
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604802733302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofile3ZKeGD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604802735691	Marionette	INFO	Listening on port 52158
+1604802735926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604802794757	Marionette	INFO	Stopped listening on port 52158
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604802970656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileKDCCKl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604802973078	Marionette	INFO	Listening on port 52370
+1604802973288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604803034292	Marionette	INFO	Stopped listening on port 52370
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604850495700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileshbK4a"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604850498876	Marionette	INFO	Listening on port 63077
+1604850499344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604850548604	Marionette	INFO	Stopped listening on port 63077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604850577463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileqpnStT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604850580175	Marionette	INFO	Listening on port 63220
+1604850580601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604850591935	Marionette	INFO	Stopped listening on port 63220
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604850601993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilejR7Ktf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604850604329	Marionette	INFO	Listening on port 63332
+1604850604620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+[Parent 14172, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604850614683	Marionette	INFO	Stopped listening on port 63332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604850804574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofilejjGAoy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604850807166	Marionette	INFO	Listening on port 63535
+1604850807217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1604850825245	Marionette	INFO	Stopped listening on port 63535
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604851329852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MUSTAF~1.CAK\\AppData\\Local\\Temp\\rust_mozprofileZjVAQO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604851332289	Marionette	INFO	Listening on port 63890
+1604851332483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.trendyol.com/ line 6196 > injectedScript, line 1: TypeError: window._gcol is undefined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://www.trendyol.com/saatini--gozlugunu-sec/butikdetay/539957/saat--aksesuar line 6196 > injectedScript, line 1: TypeError: window._gcol is undefined
+JavaScript error: https://www.trendyol.com/duke-nickle/erkek-kol-saati-veh28019a-p-32183801?boutiqueId=539957&merchantId=106615 line 6196 > injectedScript, line 1: TypeError: window._gcol is undefined
+1604851476240	Marionette	INFO	Stopped listening on port 63890
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5953: uncaught exception: [object Object]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
