@@ -1,4 +1,4 @@
-# Trendyol-ui-case-1
+# Trendyol UI Case-1
 
 Developed with Python and Selenium
 
